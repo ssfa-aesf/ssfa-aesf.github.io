@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Les membres de l'association"
+title: "membres"
 permalink: /membres/
 author_profile: true
 redirect_from:
