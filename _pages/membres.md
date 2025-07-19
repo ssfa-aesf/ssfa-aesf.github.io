@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: ""
 permalink: /membres/
 author_profile: true
