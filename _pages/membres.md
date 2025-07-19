@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 **- Alex Amiotte Suchet**
+
 Doctorant en économie à l'IDHE.S, ENS Paris-Saclay. Trésorier de l'association.
 
 **- Valentine Floriani**
