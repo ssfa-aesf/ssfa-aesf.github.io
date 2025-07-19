@@ -1,6 +1,6 @@
 ---
 permalink: /séminaire/
-title: "Le séminaire mensuel de l'association"
+title: "séminaire"
 author_profile: true
 redirect_from: 
   - /
