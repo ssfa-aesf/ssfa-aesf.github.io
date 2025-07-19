@@ -2,8 +2,7 @@
 permalink: /séminaire/
 title: ""
 author_profile: true
-redirect_from: 
-  - /séminaire/
+
 ---
 
 ## Programme du séminaire mensuel de l'association
