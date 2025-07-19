@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Membres de l'association"
+title: ""
 permalink: /membres/
 author_profile: true
 redirect_from:
-  - /membres/
+  - /
 ---
 
 **- Alex Amiotte Suchet**
