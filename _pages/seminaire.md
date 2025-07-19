@@ -18,4 +18,4 @@ Séminaire conjoint avec le RECRI.
 ### Séance de novembre 2025: le circuit
 
 
-### Séance de décemrbe 2025: le crédit privé
+### Séance de décembre 2025: le crédit privé
