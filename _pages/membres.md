@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /
 ---
+## Membres de l'association
+
 
 **- Alex Amiotte Suchet**
 
