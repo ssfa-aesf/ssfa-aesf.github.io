@@ -8,7 +8,7 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Un séminaire"
+  - title: "Séminaire de l'association"
     url: /séminaire/
   
   - title: "Membres"
