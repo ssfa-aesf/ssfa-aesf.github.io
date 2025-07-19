@@ -6,7 +6,7 @@ redirect_from:
   - /
 ---
 
-# Programme du séminaire mensuel de l'association
+#Programme du séminaire mensuel de l'association
 
 ## Séance de septembre 2025
 
