@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Membres"
+title: "Les membres de l'association"
 permalink: /membres/
 author_profile: true
 redirect_from:
-  - /resume
+  - /membres
 ---
 Membres
