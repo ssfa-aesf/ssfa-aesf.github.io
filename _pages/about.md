@@ -18,6 +18,6 @@ Le monde complexe de la finance contemporaine d√©passe le domaine des sciences √
 [Texte des membres fondateurs de l'association](/files/Parlons_finance_2000.pdf)
 
 
-Contact: asso.ssfa@proton.me
+Contact: [asso.ssfa@proton.me](mailto:asso.ssfa@proton.me)
 
 </p>
