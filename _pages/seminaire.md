@@ -18,7 +18,7 @@ Séminaire conjoint avec le [Récri](https://recri.hypotheses.org/presentation).
 
 - **Marion Tosolini (BETA, Université de Lorraine)**
 
-### Séance d'octobre 2025: les monnaies numériques
+### Séance d'octobre 2025: les monnaies numériques de banque centrale
 _**Mardi 14 octobre 2025 de 17h à 19h sur le campus condorcet**_
 
 - **Valentine Floriani (IDHE.S, ENS Paris-Saclay)**
