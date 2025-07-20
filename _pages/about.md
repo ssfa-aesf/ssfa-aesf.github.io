@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: right">
+<div style="text-align: justify">
 
 
 
