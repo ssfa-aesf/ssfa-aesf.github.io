@@ -6,19 +6,27 @@ author_profile: true
 ---
 ## Membres de l'association
 
+### Bureau
 
-**- Alex Amiotte Suchet**
+**- Alex Amiotte Suchet, _trésorier de l'association_**
 
-Doctorant en économie à l'IDHE.S, ENS Paris-Saclay. Trésorier de l'association.
+Doctorant en économie à l'IDHE.S, ENS Paris-Saclay.
 
-**- Valentine Floriani**
+**- Lisa Ferrière, _membre active de l'association_**
 
-Doctorante en sociologie à l'IDHE.S, ENS Paris-Saclay. Secrétaire de l'association.
+Doctorante en science politique à Triangle, Université Jean Moulin Lyon 3.
 
-**- Tristan Guesdon**
+**- Valentine Floriani, _secrétaire de l'association_**
 
-Doctorant en économie à l'ACT, Paris-Nord. Membre actif du bureau de l'association.
+Doctorante en sociologie à l'IDHE.S, ENS Paris-Saclay.
 
-**- Marion Tosolini**
+**- Tristan Guesdon, _membre actif du bureau de l'association_**
 
-Doctorante en économie au BETA, Université de Lorraine. Présidente de l'association.
+Doctorant en économie à l'ACT, Paris-Nord.
+
+**- Marion Tosolini, _Présidente de l'association_**
+
+Doctorante en économie au BETA, Université de Lorraine.
+
+
+### Membres
