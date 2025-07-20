@@ -6,6 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="text-align: right">
+
+
+
 Bienvenu sur le site de l'association des études sociales de la finance, association fondée le 15 juin 2000, régie par la loi du 1er juillet 1901, ayant pour objet la promotion d’études scientifiques interdisciplinaires sur le monde de la finance.
 	
  
@@ -16,3 +20,5 @@ Le monde complexe de la finance contemporaine dépasse le domaine des sciences �
 
 
 Contact: asso.ssfa@proton.me
+
+</div>
