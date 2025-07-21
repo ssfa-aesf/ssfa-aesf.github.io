@@ -19,4 +19,4 @@ Vous pouvez aussi ne vous inscrire aussi (provisoirement) que sur la liste de di
 Merci d’envoyer un petit paragraphe au président ou au secrétaire pour présenter vos recherches et la nature de votre intérêt pour les études sociales de la finance.
 
 
-Pour s’inscrire sur la liste de discussion : 
+Pour s’inscrire sur la liste de discussion : [https://groupes.renater.fr/sympa/info/ssfa](https://groupes.renater.fr/sympa/info/ssfa)
