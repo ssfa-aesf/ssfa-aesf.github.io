@@ -20,5 +20,5 @@ Guesdon Tristan, 2022. "La fiscalité sur l'énergie peut-elle devenir acceptabl
 Guesdon Tristan, 2021. "Produits phytosanitaires : quelles performances ´economiques en grandes cultures?", _Dossiers AGRESTE_, n°2021-2. [Lien](https://agreste.agriculture.gouv.fr/agreste-web/download/publication/publie/Dos2102/Dossier2021-2_%20Etude%20phytoV2.pdf)
 
 ## 2016
-Chambost Isabelle, Lenglet Marc et Tadjeddine Yamina (eds.), 2016, _La Fabrique de la finance. Pour une approche interdisciplinaire_, Presses universitaires du Septentrion, Villeneuve d'Asq.
+Chambost Isabelle, Lenglet Marc et Tadjeddine Yamina (eds.), 2016, _La Fabrique de la finance. Pour une approche interdisciplinaire_, Presses universitaires du Septentrion, Villeneuve d'Asq. [Lien](https://www.septentrion.com/fr/book/?GCOI=27574100458990)
 [Version anglaise](https://www.routledge.com/The-Making-of-Finance-Perspectives-from-the-Social-Sciences/Chambost-Lenglet-Tadjeddine/p/book/9781138498570?srsltid=AfmBOooQTDOXpHmt-TvqL_CSLuZu-4MIL3OZftKANdpB9LOqjEHBck8a)
