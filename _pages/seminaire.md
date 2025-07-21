@@ -38,4 +38,4 @@ _**Mardi 14 octobre 2025 de 17h à 19h sur le campus condorcet**_
 ## Retrouvez les séminaires organisés par l'association de 2002 à 2019
 {% include base_path %}
 
-<iframe src: "/files/seminaires_passes.pdf"></iframe>
+<iframe src="/files/seminaires_passes.pdf" width="100%" height="600px"></iframe>
