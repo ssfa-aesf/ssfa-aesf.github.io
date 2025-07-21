@@ -7,6 +7,9 @@ author_profile: true
 **Le séminaire de l'association a lieu tous les deuxièmes mercredis du mois, de 17h à 19h, habituellement sur le campus condorcet (lieu susceptible de changer)**
 
 
+Si vous désirez proposer une séance de séminaire, il vous suffit de contacter la président de l'association [Marion Tosolini](mailto:marion.tosolini@univ-lorraine.fr)
+
+
 ## Programme du séminaire mensuel de l'association
 
 ### Séance de septembre 2025: financer l'économie: les transformations du rapport public/privé
