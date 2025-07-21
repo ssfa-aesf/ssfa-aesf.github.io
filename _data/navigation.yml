@@ -20,5 +20,8 @@ main:
   - title: "Devenir membre"
     url: /adhesion/
 
+  - title: "Publications"
+   url: /publications/
+
   - title: "Cahiers SSFA"
     url: /cahiers-ssfa/
