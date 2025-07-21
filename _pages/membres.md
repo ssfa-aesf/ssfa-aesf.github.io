@@ -4,6 +4,8 @@ permalink: /membres/
 author_profile: true
 
 ---
+**Pour devenir membre de l'association, c'est [ici](/adhesion/)**
+
 ## Membres de l'association
 
 ### Bureau
