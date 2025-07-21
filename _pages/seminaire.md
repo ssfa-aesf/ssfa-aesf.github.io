@@ -33,3 +33,6 @@ _**Mardi 14 octobre 2025 de 17h à 19h sur le campus condorcet**_
 
 
 ### Séance de décembre 2025: le crédit privé
+
+
+## Retrouvez les séminaires organisés par l'association de 2002 à 2019
