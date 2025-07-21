@@ -17,6 +17,8 @@ Le monde complexe de la finance contemporaine dépasse le domaine des sciences �
 Retrouvez les [publications](/publications/) des membres de l'association.
 
 
+Contact: [asso.ssfa@proton.me](mailto:asso.ssfa@proton.me)
+
 
 ### Textes utiles
 
@@ -25,6 +27,3 @@ Retrouvez les [publications](/publications/) des membres de l'association.
 [Les status de l'association des études sociales de la finance](/files/statuts_ssfa.pdf)
 
 [Compte rendu de l'assemblée générale de 2000 créant l'association](/files/AG_creation.pdf)
-
-
-Contact: [asso.ssfa@proton.me](mailto:asso.ssfa@proton.me)
