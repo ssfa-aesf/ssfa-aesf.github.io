@@ -21,7 +21,7 @@ main:
     url: /adhesion/
 
   - title: "Publications"
-   url: /publications/
+    url: /publications/
 
   - title: "Cahiers SSFA"
     url: /cahiers-ssfa/
