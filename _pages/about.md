@@ -16,7 +16,6 @@ Le monde complexe de la finance contemporaine d√©passe le domaine des sciences √
 
 Retrouvez les [publications](/publications/) des membres de l'association.
 
-
 Contact: [asso.ssfa@proton.me](mailto:asso.ssfa@proton.me)
 
 
