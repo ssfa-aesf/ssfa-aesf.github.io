@@ -15,7 +15,7 @@ Le monde complexe de la finance contemporaine dépasse le domaine des sciences �
 
 [Texte des membres fondateurs de l'association](/files/Parlons_finance_2000.pdf)
 
-[Les status de l'association des études sociales de la finance](/files/status_ssfa.pdf)
+[Les status de l'association des études sociales de la finance](/files/statuts_ssfa.pdf)
 
 
 Contact: [asso.ssfa@proton.me](mailto:asso.ssfa@proton.me)
