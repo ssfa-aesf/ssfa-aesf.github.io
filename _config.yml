@@ -23,6 +23,8 @@ repository               : "ssfa-aesf/ssfa-aesf.github.io"
 author:
   # Biographic information
   avatar           : "/images/ssfa.png"
+  location         : "France"
+  email            : "asso.ssfa@proton.me" 
 
   # Academic websites
   academia         : # URL
