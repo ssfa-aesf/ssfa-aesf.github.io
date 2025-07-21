@@ -1,9 +1,7 @@
-
 ---
-title: "Cahiers SSFA"
+title: ""
 permalink: /cahiers-ssfa/
 author_profile: true
-
 
 ---
 
