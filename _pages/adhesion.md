@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Rejoindre l’association (recommandé)
-En devenant membre de l’association, vous contribuez et vous participez à son développement. Vous pouvez alors afficher vos [publications](/publications/), vos liens, etc., sur le site web. Vous faites partie aussi de la liste de discussion.
+En devenant membre de l’association, vous contribuez et vous participez à son développement. Vous pouvez alors afficher vos [publications](/publications/), vos liens, etc., sur le site web. Vous faites partie aussi de la liste de discussion. Les membres ont également accès au cloud de l'association avec l'ensemble des documents relatifs à SSFA ainsi que les articles des séances de séminaire.
 
 La cotisation annuelle est fixée à 5euros.
 
