@@ -27,7 +27,7 @@ Amiotte Suchet, A. et Régniez, T. (2023). "Hyperinflation, déflation et stagfl
 Guérin, A.-G. et Tosolini, M. (2023). La demande au-delà du prix. _Regards croisés sur l'économie_, 32(1), 117-124. [Lien](https://shs.cairn.info/revue-regards-croises-sur-l-economie-2023-1-page-117?lang=fr)
 
 ## 2022
-Guesdon Tristan, 2022. "La fiscalité sur l'énergie peut-elle devenir acceptable ?é, avec Jonas Anne-Braun,_ Revue de l’OFCE_, numéro 176. [Lien](https://www.ofce.sciences-po.fr/pdf/revue/02-176OFCE.pdf)
+Guesdon Tristan, 2022. "La fiscalité sur l'énergie peut-elle devenir acceptable ?, avec Jonas Anne-Braun, _Revue de l’OFCE_, numéro 176. [Lien](https://www.ofce.sciences-po.fr/pdf/revue/02-176OFCE.pdf)
 
 ## 2021
 Guesdon Tristan, 2021. "Produits phytosanitaires : quelles performances ´economiques en grandes cultures?", _Dossiers AGRESTE_, n°2021-2. [Lien](https://agreste.agriculture.gouv.fr/agreste-web/download/publication/publie/Dos2102/Dossier2021-2_%20Etude%20phytoV2.pdf)
