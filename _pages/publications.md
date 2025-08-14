@@ -18,6 +18,8 @@ Amiotte Suchet, A. et Yaïche, M. (2024). Géographie de l’innovation : de la 
 
 Guesdon Tristan, 2024. "Georg Friedrich Knapp’s Legacy to Modern Monetary Theory: A Reconsideration", _History of Political Economy_ 56 (5): 873–908. [Lien](https://read.dukeupress.edu/hope/article-abstract/56/5/873/387802/Georg-Friedrich-Knapp-s-Legacy-to-Modern-Monetary?redirectedFrom=fulltext)
 
+Tosolini Marion, 2024. "Premier choc pétrolier et assistance financière européenne : un bouleversement de l’ordre politico-économique européen ?", _Économie et institutions_, 34-35,27p. [Lien](https://journals.openedition.org/ei/8044)
+
 ## 2023
 Amiotte Suchet, A. et Régniez, T. (2023). "Hyperinflation, déflation et stagflation". _Regards croisés sur l'économie_, 32(1), 204-209. [Lien](https://shs.cairn.info/revue-regards-croises-sur-l-economie-2023-1-page-204?lang=fr)
 
