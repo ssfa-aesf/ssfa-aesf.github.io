@@ -28,6 +28,8 @@ _**Mardi 14 octobre 2025 de 17h à 19h sur le campus condorcet**_
 
 
 ### Séance de décembre 2025: le crédit privé et l'endettement des ménages
+_**Mercredi 10 décembre 2025 de 17h à 19h sur le campus condorcet**_
+
 
 - Julian Laynat (BETA, Université de Lorraine): "Regroupement de crédits : prison de dette ou libération au surendettement ?"
 
