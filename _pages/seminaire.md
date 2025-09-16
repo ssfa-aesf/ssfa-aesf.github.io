@@ -40,9 +40,9 @@ _**Jeudi 11 septembre 2025 de 18h à 20h à la MSH Paris-Nord**_
 
 Séminaire conjoint avec le [Récri](https://recri.hypotheses.org/presentation). Il sera également possible de suivre la séance en direct à distance via la [chaîne YouTube de la MSH](https://www.youtube.com/@MSHParisNord/streamshttps:/www.youtube.com/@MSHParisNord/featured).
 
-- Alex Amiotte Suchet (IDHE.S, ENS Paris-Saclay): “De la garantie corporatiste à la garantie financière. Changement institutionnel dans l’État dérisqueur en France (1936-1997)”
+- Alex Amiotte Suchet (IDHE.S, ENS Paris-Saclay): "De la garantie corporatiste à la garantie financière. Changement institutionnel dans l’État dérisqueur en France (1936-1997)"
 
-- Marion Tosolini (BETA, Université de Lorraine): “Une politique publique financiarisée dans un paradigme keynésien ? La politique d’emprunt de la CECA”
+- Marion Tosolini (BETA, Université de Lorraine): "Une politique publique financiarisée dans un paradigme keynésien ? La politique d’emprunt de la CECA"
 
 
 
