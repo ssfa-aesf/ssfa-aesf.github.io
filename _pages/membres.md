@@ -32,3 +32,6 @@ Doctorante en économie au BETA, Université de Lorraine. [Page personnelle de M
 
 
 ### Membres
+
+**- Raphaël Ottman**
+Doctorant en économie à EconomiX, Université Paris Nanterre. [Page personnelle de Raphaël](https://economix.fr/fr/membre/ottmann-raphael)
