@@ -11,9 +11,6 @@ En devenant membre de l’association, vous contribuez et vous participez à son
 La cotisation annuelle est fixée à 5 euros. Pour devenir membre, merci d'envoyer un message au trésorier de l'association [Alex Amiotte Suchet](mailto:alex.amiotte-suchet@ens-paris-saclay.fr) pour le règlement de la cotisation.
 
 ### Ne rejoindre que la liste de discussion
-Vous pouvez aussi ne vous inscrire aussi (provisoirement) que sur la liste de discussion. C’est gratuit. Il y a par contre une procédure de cooptation :
- 
-Merci d’envoyer un petit paragraphe au président ou au secrétaire pour présenter vos recherches et la nature de votre intérêt pour les études sociales de la finance.
-
+Vous pouvez aussi ne vous inscrire aussi (provisoirement) que sur la liste de discussion. C’est gratuit.
 
 Pour s’inscrire sur la liste de discussion : [https://groupes.renater.fr/sympa/info/ssfa](https://groupes.renater.fr/sympa/info/ssfa)
