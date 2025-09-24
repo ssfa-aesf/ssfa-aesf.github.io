@@ -16,13 +16,9 @@ Si vous désirez proposer une séance de séminaire, il vous suffit de contacter
 ### Séance d'octobre 2025: les monnaies numériques de banque centrale
 _**Mercredi 15 octobre 2025 de 17h à 19h sur le campus Condorcet, bâtiment sud**_
 
-- Valentine Floriani (IDHE.S, ENS Paris-Saclay) :
-  
-"_Hold up the banks ?_ L'euro numérique ou l'histoire d'une tentative manquée de désintermédier le système bancaire"
+- Valentine Floriani (IDHE.S, ENS Paris-Saclay) : "_Hold up the banks ?_ L'euro numérique ou l'histoire d'une tentative manquée de désintermédier le système bancaire"
 
-- Gabriel Tailleur (LEFMI, Université de Picardie Jules-Verne) :
-
-"_What Drives Monetary Preferences? Evidence from Cryptocurrencies and the Digital Euro in the European Parliament_"
+- Gabriel Tailleur (LEFMI, Université de Picardie Jules-Verne) : "_What Drives Monetary Preferences? Evidence from Cryptocurrencies and the Digital Euro in the European Parliament_"
 
 
 ### Séance de novembre 2025: Perspectives sur les circuits de financement
@@ -36,9 +32,7 @@ _**Mercredi 15 octobre 2025 de 17h à 19h sur le campus Condorcet, bâtiment sud
 _**Mercredi 10 décembre 2025 de 17h à 19h sur le campus condorcet**_
 
 
-- Julian Laynat (BETA, Université de Lorraine):
-
-"Regroupement de crédits : prison de dette ou libération au surendettement ?"
+- Julian Laynat (BETA, Université de Lorraine): "Regroupement de crédits : prison de dette ou libération au surendettement ?"
 
 - Leïla Cheurfa (IDHE.S, Paris 1 Panthéon Sorbonne): titre à venir
 
