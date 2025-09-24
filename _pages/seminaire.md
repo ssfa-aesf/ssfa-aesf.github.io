@@ -13,11 +13,13 @@ Si vous désirez proposer une séance de séminaire, il vous suffit de contacter
 ## Programme du séminaire mensuel de l'association
 
 ### Séance d'octobre 2025: les monnaies numériques de banque centrale
-_**Mardi 14 octobre 2025 de 17h à 19h sur le campus condorcet**_
+_**Mercredi 15 octobre 2025 de 17h à 19h sur le campus Condorcet, bâtiment sud**_
 
-- Valentine Floriani (IDHE.S, ENS Paris-Saclay)
+- Valentine Floriani (IDHE.S, ENS Paris-Saclay) : "_Hold up the banks ?_ L'euro numérique ou l'histoire d'une tentative manquée de désintermédier le système bancaire"
 
-- Gabriel Tailleur (LEFMI, Université de Picardie Jules-Verne)
+- Gabriel Tailleur (LEFMI, Université de Picardie Jules-Verne) : "_What Drives Monetary Preferences? Evidence from Cryptocurrencies and the Digital Euro in the European Parliament_"
+
+Inscription à la prochaine séance : https://docs.google.com/forms/d/e/1FAIpQLSdNhAon-_moDx9N3A--_SqS58pyo1RE7jg23yC9xpiscuRpLQ/viewform?usp=header
 
 
 ### Séance de novembre 2025: Perspectives sur les circuits de financement
