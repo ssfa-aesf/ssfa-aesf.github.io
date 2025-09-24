@@ -9,17 +9,20 @@ author_profile: true
 
 Si vous désirez proposer une séance de séminaire, il vous suffit de contacter la présidente de l'association [Marion Tosolini](mailto:marion.tosolini@univ-lorraine.fr)
 
+[Inscription à la prochaine séance](https://docs.google.com/forms/d/e/1FAIpQLSdNhAon-_moDx9N3A--_SqS58pyo1RE7jg23yC9xpiscuRpLQ/viewform?usp=header)
 
 ## Programme du séminaire mensuel de l'association
 
 ### Séance d'octobre 2025: les monnaies numériques de banque centrale
 _**Mercredi 15 octobre 2025 de 17h à 19h sur le campus Condorcet, bâtiment sud**_
 
-- Valentine Floriani (IDHE.S, ENS Paris-Saclay) : "_Hold up the banks ?_ L'euro numérique ou l'histoire d'une tentative manquée de désintermédier le système bancaire"
+- Valentine Floriani (IDHE.S, ENS Paris-Saclay) :
+  
+"_Hold up the banks ?_ L'euro numérique ou l'histoire d'une tentative manquée de désintermédier le système bancaire"
 
-- Gabriel Tailleur (LEFMI, Université de Picardie Jules-Verne) : "_What Drives Monetary Preferences? Evidence from Cryptocurrencies and the Digital Euro in the European Parliament_"
+- Gabriel Tailleur (LEFMI, Université de Picardie Jules-Verne) :
 
-Inscription à la prochaine séance : https://docs.google.com/forms/d/e/1FAIpQLSdNhAon-_moDx9N3A--_SqS58pyo1RE7jg23yC9xpiscuRpLQ/viewform?usp=header
+"_What Drives Monetary Preferences? Evidence from Cryptocurrencies and the Digital Euro in the European Parliament_"
 
 
 ### Séance de novembre 2025: Perspectives sur les circuits de financement
@@ -33,7 +36,9 @@ Inscription à la prochaine séance : https://docs.google.com/forms/d/e/1FAIpQLS
 _**Mercredi 10 décembre 2025 de 17h à 19h sur le campus condorcet**_
 
 
-- Julian Laynat (BETA, Université de Lorraine): "Regroupement de crédits : prison de dette ou libération au surendettement ?"
+- Julian Laynat (BETA, Université de Lorraine):
+
+"Regroupement de crédits : prison de dette ou libération au surendettement ?"
 
 - Leïla Cheurfa (IDHE.S, Paris 1 Panthéon Sorbonne): titre à venir
 
