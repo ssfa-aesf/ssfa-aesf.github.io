@@ -14,7 +14,7 @@ Si vous désirez proposer une séance de séminaire, il vous suffit de contacter
 ## Programme du séminaire mensuel de l'association
 
 ### Séance d'octobre 2025: les monnaies numériques de banque centrale
-_**Mercredi 15 octobre 2025 de 17h à 19h sur le campus Condorcet, bâtiment sud**_
+_**Mercredi 15 octobre 2025 de 17h à 19h sur le campus Condorcet, bâtiment recherche Sud, salle 0.017**_
 
 - Valentine Floriani (IDHE.S, ENS Paris-Saclay) : "_Hold up the banks ?_ L'euro numérique ou l'histoire d'une tentative manquée de désintermédier le système bancaire"
 
