@@ -21,7 +21,8 @@ _**Mercredi 15 octobre 2025 de 17h à 19h sur le campus Condorcet, bâtiment rec
 - Gabriel Tailleur (LEFMI, Université de Picardie Jules-Verne) : "_What Drives Monetary Preferences? Evidence from Cryptocurrencies and the Digital Euro in the European Parliament_"
 
 
-### Séance de novembre 2025: Perspectives sur les circuits de financement
+### Séance de novembre 2025: Politiques du circuit
+_**Mercredi 12 novembre 2025 de 17h à 19h sur le campus Condorcet, bâtiment recherche Sud, salle 0.017**_
 
 - Charlotte Janson (IRISSO, Université Paris Dauphine)
 
