@@ -30,7 +30,7 @@ _**Mercredi 10 décembre 2025 de 17h à 19h sur le Campus Condorcet - Bâtiment 
 - Leïla Cheurfa (IDHE.S, Paris 1 Panthéon Sorbonne): titre à venir
 
 
-### Séance de décembre 2025: le crédit privé et l'endettement des ménages
+### Séance de janvier 2026
 _**Mercredi 28 janvier 2026 de 17h à 19h sur le Campus Condorcet - Bâtiment recherche Sud**_
 
 Valentina Moiso (Université de Turin) nous présentera son dernier ouvrage consacré à l'accès au crédit des particuliers en Italie
