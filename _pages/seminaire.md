@@ -16,14 +16,13 @@ Si vous désirez proposer une séance de séminaire, il vous suffit de contacter
 ### Séance de novembre 2025: Politiques du circuit
 _**Mercredi 12 novembre 2025 de 17h à 19h sur le campus Condorcet, bâtiment recherche Sud, salle 0.017**_
 
-- Charlotte Janson (IRISSO, Université Paris Dauphine)
+- Charlotte Janson (IRISSO, Université Paris Dauphine), "Concilier financement de la transition écologique et sociale et marquage de l’argent par les épargnants : les politiques de circulation de l’épargne durable"
 
-- Tristan Guesdon (ACT, Université Paris-Nord)
+- Tristan Guesdon (ACT, Université Paris-Nord), "Financer l’État par l’activité bancaire : le circuit du Trésor au prisme de la monnaie endogène"
 
 
 ### Séance de décembre 2025: le crédit privé et l'endettement des ménages
 _**Mercredi 10 décembre 2025 de 17h à 19h sur le Campus Condorcet - Bâtiment recherche Sud**_
-
 
 - Julian Laynat (BETA, Université de Lorraine): "Regroupement de crédits : prison de dette ou libération au surendettement ?"
 
