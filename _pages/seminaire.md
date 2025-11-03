@@ -26,7 +26,7 @@ _**Mercredi 10 décembre 2025 de 17h à 19h sur le Campus Condorcet - Bâtiment 
 
 - Julian Laynat (BETA, Université de Lorraine): "Regroupement de crédits : prison de dette ou libération au surendettement ?"
 
-- Leïla Cheurfa (IDHE.S, Paris 1 Panthéon Sorbonne): titre à venir
+- Leïla Cheurfa (IDHE.S, Paris 1 Panthéon Sorbonne): "Façonner les liens sociaux : crédit et conflits dans le nord de l’Écosse au XVIIIe siècle"
 
 
 ### Séance de janvier 2026
