@@ -10,29 +10,44 @@ author_profile: true
 
 ### Bureau
 
-**- Alex Amiotte Suchet, _trésorier de l'association_**
+**- [Alex Amiotte Suchet](https://www.idhes.cnrs.fr/amiotte-suchet-alex/), _trésorier de l'association_**
 
-Doctorant en économie à l'IDHE.S, ENS Paris-Saclay. [Page personnelle d'Alex](https://www.idhes.cnrs.fr/amiotte-suchet-alex/)
+Doctorant en économie à l'IDHE.S, ENS Paris-Saclay.
 
-**- Lisa Ferrière, _membre active de l'association_**
+**- [Lisa Ferrière](https://triangle.ens-lyon.fr/spip.php?article12497), _membre active de l'association_**
 
-Doctorante en science politique à Triangle, Université Jean Moulin Lyon 3. [Page personnelle de Lisa](https://triangle.ens-lyon.fr/spip.php?article12497)
+Doctorante en science politique à Triangle, Université Jean Moulin Lyon 3.
 
-**- Valentine Floriani, _secrétaire de l'association_**
+**- [Valentine Floriani](https://www.idhes.cnrs.fr/floriani-valentine/), _secrétaire de l'association_**
 
-Doctorante en sociologie à l'IDHE.S, ENS Paris-Saclay. [Page personnelle de Valentine](https://www.idhes.cnrs.fr/floriani-valentine/)
+Doctorante en sociologie à l'IDHE.S, ENS Paris-Saclay.
 
 **- Tristan Guesdon, _membre actif du bureau de l'association_**
 
 Doctorant en économie à l'ACT, Paris-Nord.
 
-**- Marion Tosolini, _Présidente de l'association_**
+**- [Marion Tosolini](https://www.beta-economics.fr/annuaire/607/tosolini_marion/), _Présidente de l'association_**
 
-Doctorante en économie au BETA, Université de Lorraine. [Page personnelle de Marion](https://www.beta-economics.fr/annuaire/607/tosolini_marion/)
+Doctorante en économie au BETA, Université de Lorraine.
 
 
 ### Membres
 
-**- Raphaël Ottman**
+**- [Julian Laynat](https://www.beta-economics.fr/annuaire/590/laynat_julian/)**
 
-Doctorant en économie à EconomiX, Université Paris Nanterre. [Page personnelle de Raphaël](https://economix.fr/fr/membre/ottmann-raphael)
+Doctorant en économie au BETA, Université de Lorraine.
+
+
+**- [Marc Lenglet](https://neoma-bs.fr/professeurs/lenglet)**
+
+Professeur en gestion à Neoma Business School.
+
+
+**- [Raphaël Ottman](https://economix.fr/fr/membre/ottmann-raphael)**
+
+Doctorant en économie à EconomiX, Université Paris Nanterre.
+
+
+**- [Yamina Tadjeddine](https://www.beta-economics.fr/annuaire/252/tadjeddine_yamina/)**
+
+Professeure des universités en économie au BETA, Université de Lorraine.
