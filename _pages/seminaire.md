@@ -12,6 +12,25 @@ Si vous désirez proposer une séance de séminaire, il vous suffit de contacter
 
 ## Programme du séminaire mensuel de l'association
 
+### Séance de janvier 2026
+_**Mercredi 28 janvier 2026 de 17h à 19h sur le Campus Condorcet - Bâtiment recherche Sud**_
+
+Valentina Moiso (Université de Turin) nous présentera son dernier ouvrage consacré à l'accès au crédit des particuliers en Italie
+
+
+### Séance de février 2026
+
+
+### Séance de mars 2026: Les systèmes monétaires en contexte colonial
+_**Mercredi 11 mars 2026 de 17h à 19h à la MSH Paris-Nord**_
+
+- Hugo Carlier (CHSP, Sciences Po) : "Circulations, savoirs et "politiques monétaires" en Sénégambie (années 1840 - années 1870)"
+
+- Jonas Weko (CERSA, Université Panthéon-Assas) : "Le compte d’opération : usages et légitimation dans la reproduction d’un ordre monétaire postcolonial"
+
+
+
+## Séances passées
 
 ### Séance de décembre 2025: le crédit privé et l'endettement des ménages
 _**Mercredi 10 décembre 2025 de 17h à 19h sur le Campus Condorcet - Bâtiment recherche Sud**_
@@ -19,15 +38,7 @@ _**Mercredi 10 décembre 2025 de 17h à 19h sur le Campus Condorcet - Bâtiment 
 - Julian Laynat (BETA, Université de Lorraine): "Regroupement de crédits : prison de dette ou libération au surendettement ?"
 
 - Leïla Cheurfa (IDHE.S, Paris 1 Panthéon Sorbonne): "Façonner les liens sociaux : crédit et conflits dans le nord de l’Écosse au XVIIIe siècle"
-
-
-### Séance de janvier 2026
-_**Mercredi 28 janvier 2026 de 17h à 19h sur le Campus Condorcet - Bâtiment recherche Sud**_
-
-Valentina Moiso (Université de Turin) nous présentera son dernier ouvrage consacré à l'accès au crédit des particuliers en Italie
-
-
-## Séances passées
+  
 
 ### Séance de novembre 2025: Politiques du circuit
 _**Mercredi 12 novembre 2025 de 17h à 19h sur le campus Condorcet, bâtiment recherche Sud, salle 0.017**_
