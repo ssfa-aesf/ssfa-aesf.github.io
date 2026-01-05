@@ -18,7 +18,7 @@ _**Mercredi 28 janvier 2026 de 17h à 19h sur le Campus Condorcet - Bâtiment re
 Valentina Moiso (Université de Turin) nous présentera son dernier ouvrage consacré à l'accès au crédit des particuliers en Italie
 
 
-### Séance de février 2026
+### Séance de février 2026: Le financement de la santé
 
 
 ### Séance de mars 2026: Les systèmes monétaires en contexte colonial
@@ -28,6 +28,13 @@ _**Mercredi 11 mars 2026 de 17h à 19h à la MSH Paris-Nord**_
 
 - Jonas Weko (CERSA, Université Panthéon-Assas) : "Le compte d’opération : usages et légitimation dans la reproduction d’un ordre monétaire postcolonial"
 
+
+### Séance d'avril 2026: Les finances vertes européennes
+_**Mercredi 8 avril 2026 de 17h à 19h à la MSH Paris-Nord**_
+
+- Fabienne Jouty (Sirice, Sorbonne Université)
+
+- Daniel Coronel Crespo (Triangle, Sciences Po Lyon)
 
 
 ## Séances passées
