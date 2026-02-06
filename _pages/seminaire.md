@@ -28,7 +28,7 @@ _**Mercredi 18 février 2026 de 17h à 19h à la MSH Paris-Nord (salle panoramiq
 - Antoine Leymarie (CSO, Sciences Po Paris) : "Les biologistes médicaux et les radiologues à l'ère des sociétés de capitaux (1990-2025). Premières leçons d'une analyse comparée."
 
 ### Séance de mars 2026: Les systèmes monétaires en contexte colonial
-_**Mercredi 11 mars 2026 de 17h à 19h à la MSH Paris-Nord**_
+_**Mercredi 11 mars 2026 de 17h à 19h à la MSH Paris-Nord (salle panoramique, 4e étage)**_
 
 - Hugo Carlier (CHSP, Sciences Po) : "Circulations, savoirs et "politiques monétaires" en Sénégambie (années 1840 - années 1870)"
 
@@ -36,7 +36,7 @@ _**Mercredi 11 mars 2026 de 17h à 19h à la MSH Paris-Nord**_
 
 
 ### Séance d'avril 2026: Les finances vertes européennes
-_**Mercredi 8 avril 2026 de 17h à 19h à la MSH Paris-Nord**_
+_**Mercredi 8 avril 2026 de 17h à 19h à la MSH Paris-Nord (salle panoramique, 4e étage)**_
 
 - Fabienne Jouty (Sirice, Sorbonne Université)
 
