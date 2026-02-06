@@ -19,7 +19,7 @@ Valentina Moiso (Université de Turin) nous présentera son dernier ouvrage cons
 
 
 ### Séance de février 2026: Le financement de la santé
-_**Mercredi 18 février 2026 de 17h à 19h à la MSH Paris-Nord (salle panoramique, 4e étage)**_
+_**Mercredi 18 février 2026 de 17h à 19h30 à la MSH Paris-Nord (salle panoramique, 4e étage)**_
 
 - Alice Bétoule (CEPN, Université Sorbonne Paris Nord) : "L'_assetization_ de l'infrastructure hospitalière : étude du partenariat public-privé de la Cité de Saint-Nazaire."
 
