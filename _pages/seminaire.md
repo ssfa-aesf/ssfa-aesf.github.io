@@ -21,9 +21,9 @@ Valentina Moiso (Université de Turin) nous présentera son dernier ouvrage cons
 ### Séance de février 2026: Le financement de la santé
 _**Mercredi 18 février 2026 de 17h à 19h à la MSH Paris-Nord (salle panoramique, 4e étage)**_
 
-- Alice Bétoule (CEPN, Université Sorbonne Paris Nord) : "La financiarisation de l'hôpital public par les partenariats public-privé"
+- Alice Bétoule (CEPN, Université Sorbonne Paris Nord) : "L'_assetization_ de l'infrastructure hospitalière : étude du partenariat public-privé de la Cité de Saint-Nazaire."
 
-- Hugo Wetzel (CRESPPA, Université Paris 8) : "Un "dévoiement" multiforme. Les usages des centres de santé au service de sociétés commerciales"
+- Hugo Wetzel (CRESPPA, Université Paris 8) : "Un "dévoiement" multiforme. Les usages des centres de santé au service de sociétés commerciales."
 
 - Antoine Leymarie (CSO, Sciences Po Paris) : "Les biologistes médicaux et les radiologues à l'ère des sociétés de capitaux (1990-2025). Premières leçons d'une analyse comparée."
 
