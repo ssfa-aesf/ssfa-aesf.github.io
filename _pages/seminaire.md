@@ -12,12 +12,6 @@ Si vous désirez proposer une séance de séminaire, il vous suffit de contacter
 
 ## Programme du séminaire mensuel de l'association
 
-### Séance de janvier 2026
-_**Mercredi 28 janvier 2026 de 17h à 19h sur le Campus Condorcet - Bâtiment recherche Sud**_
-
-Valentina Moiso (Université de Turin) nous présentera son dernier ouvrage consacré à l'accès au crédit des particuliers en Italie
-
-
 ### Séance de février 2026: Le financement de la santé
 _**Mercredi 18 février 2026 de 17h à 19h30 à la MSH Paris-Nord (salle panoramique, 4e étage)**_
 
@@ -44,6 +38,12 @@ _**Mercredi 8 avril 2026 de 17h à 19h à la MSH Paris-Nord (salle panoramique, 
 
 
 ## Séances passées
+
+### Séance de janvier 2026
+_**Mercredi 28 janvier 2026 de 17h à 19h sur le Campus Condorcet - Bâtiment recherche Sud**_
+
+Valentina Moiso (Université de Turin) nous présentera son dernier ouvrage consacré à l'accès au crédit des particuliers en Italie
+
 
 ### Séance de décembre 2025: le crédit privé et l'endettement des ménages
 _**Mercredi 10 décembre 2025 de 17h à 19h sur le Campus Condorcet - Bâtiment recherche Sud**_
