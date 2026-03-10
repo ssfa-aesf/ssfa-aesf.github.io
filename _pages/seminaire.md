@@ -34,7 +34,7 @@ _**Mercredi 8 avril 2026 de 17h à 19h à la MSH Paris-Nord (salle panoramique, 
 
 - Fabienne Jouty (Sirice, Sorbonne Université)
 
-- Daniel Coronel Crespo (Triangle, Sciences Po Lyon)
+- Daniel Coronel Crespo (Triangle, Sciences Po Lyon): "Une approche sociologique de la finance durable européenne, faire sens de son émergence, popularité et démantèlement"
 
 
 ## Séances passées
