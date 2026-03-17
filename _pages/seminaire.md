@@ -12,6 +12,16 @@ Si vous désirez proposer une séance de séminaire, il vous suffit de contacter
 
 ## Programme du séminaire mensuel de l'association
 
+### Séance d'avril 2026: Les finances vertes européennes
+_**Mercredi 8 avril 2026 de 17h à 19h à la MSH Paris-Nord (salle panoramique, 4e étage)**_
+
+- Fabienne Jouty (Sirice, Sorbonne Université): "De la taxe carbone au marché du carbone : transformation des instruments économiques de la politique climatique européenne (1979-2005)"
+
+- Daniel Coronel Crespo (Triangle, Sciences Po Lyon): "Une approche sociologique de la finance durable européenne, faire sens de son émergence, popularité et démantèlement"
+
+
+## Séances passées
+
 ### Séance de février 2026: Le financement de la santé
 _**Mercredi 18 février 2026 de 17h à 19h30 à la MSH Paris-Nord (salle panoramique, 4e étage)**_
 
@@ -28,16 +38,6 @@ _**Mercredi 11 mars 2026 de 17h à 19h à la MSH Paris-Nord (salle panoramique, 
 
 - Jonas Weko (CERSA, Université Panthéon-Assas) : "Le compte d’opération : usages et légitimation dans la reproduction d’un ordre monétaire postcolonial"
 
-
-### Séance d'avril 2026: Les finances vertes européennes
-_**Mercredi 8 avril 2026 de 17h à 19h à la MSH Paris-Nord (salle panoramique, 4e étage)**_
-
-- Fabienne Jouty (Sirice, Sorbonne Université)
-
-- Daniel Coronel Crespo (Triangle, Sciences Po Lyon): "Une approche sociologique de la finance durable européenne, faire sens de son émergence, popularité et démantèlement"
-
-
-## Séances passées
 
 ### Séance de janvier 2026
 _**Mercredi 28 janvier 2026 de 17h à 19h sur le Campus Condorcet - Bâtiment recherche Sud**_
