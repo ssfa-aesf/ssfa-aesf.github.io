@@ -12,15 +12,28 @@ Si vous désirez proposer une séance de séminaire, il vous suffit de contacter
 
 ## Programme du séminaire mensuel de l'association
 
+### Séance de mai 2026: Le genre de la finance
+_**Mercredi 13 mai 2026 de 17h à 19h à la MSH Paris-Nord (salle panoramique, 4e étage)**_
+
+- Maya Guerrand (IRISSO, Université Paris Dauphine-PSL) : "Mettre la « féminité » au travail : mixité et stratégies de moralisation des espaces financiers"
+
+- Pauline Gibard (CREATE, iaelyon School of Management): titre à venir
+
+## Séances passées
+
 ### Séance d'avril 2026: Les finances vertes européennes
 _**Mercredi 8 avril 2026 de 17h à 19h à la MSH Paris-Nord (salle panoramique, 4e étage)**_
 
 - Fabienne Jouty (Sirice, Sorbonne Université): "De la taxe carbone au marché du carbone : transformation des instruments économiques de la politique climatique européenne (1979-2005)"
 
 - Daniel Coronel Crespo (Triangle, Sciences Po Lyon): "Une approche sociologique de la finance durable européenne, faire sens de son émergence, popularité et démantèlement"
+- 
+### Séance de mars 2026: Les systèmes monétaires en contexte colonial
+_**Mercredi 11 mars 2026 de 17h à 19h à la MSH Paris-Nord (salle panoramique, 4e étage)**_
 
+- Hugo Carlier (CHSP, Sciences Po) : "Circulations, savoirs et "politiques monétaires" en Sénégambie (années 1840 - années 1870)"
 
-## Séances passées
+- Jonas Weko (CERSA, Université Panthéon-Assas) : "Le compte d’opération : usages et légitimation dans la reproduction d’un ordre monétaire postcolonial"
 
 ### Séance de février 2026: Le financement de la santé
 _**Mercredi 18 février 2026 de 17h à 19h30 à la MSH Paris-Nord (salle panoramique, 4e étage)**_
@@ -31,19 +44,10 @@ _**Mercredi 18 février 2026 de 17h à 19h30 à la MSH Paris-Nord (salle panoram
 
 - Antoine Leymarie (CSO, Sciences Po Paris) : "Les biologistes médicaux et les radiologues à l'ère des sociétés de capitaux (1990-2025). Premières leçons d'une analyse comparée."
 
-### Séance de mars 2026: Les systèmes monétaires en contexte colonial
-_**Mercredi 11 mars 2026 de 17h à 19h à la MSH Paris-Nord (salle panoramique, 4e étage)**_
-
-- Hugo Carlier (CHSP, Sciences Po) : "Circulations, savoirs et "politiques monétaires" en Sénégambie (années 1840 - années 1870)"
-
-- Jonas Weko (CERSA, Université Panthéon-Assas) : "Le compte d’opération : usages et légitimation dans la reproduction d’un ordre monétaire postcolonial"
-
-
 ### Séance de janvier 2026
 _**Mercredi 28 janvier 2026 de 17h à 19h sur le Campus Condorcet - Bâtiment recherche Sud**_
 
 Valentina Moiso (Université de Turin) nous présentera son dernier ouvrage consacré à l'accès au crédit des particuliers en Italie
-
 
 ### Séance de décembre 2025: le crédit privé et l'endettement des ménages
 _**Mercredi 10 décembre 2025 de 17h à 19h sur le Campus Condorcet - Bâtiment recherche Sud**_
