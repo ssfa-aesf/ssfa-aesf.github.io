@@ -17,7 +17,7 @@ _**Mercredi 13 mai 2026 de 17h à 19h à la MSH Paris-Nord (salle panoramique, 4
 
 - Maya Guerrand (IRISSO, Université Paris Dauphine-PSL) : "Mettre la « féminité » au travail : mixité et stratégies de moralisation des espaces financiers"
 
-- Pauline Gibard (CREATE, iaelyon School of Management): titre à venir
+- Pauline Gibard (CREATE, iaelyon School of Management): "Défis du financement de l’entrepreneuriat féminin : enseignements de thèse et d’un article sur les micro-agressions"
 
 ## Séances passées
 
