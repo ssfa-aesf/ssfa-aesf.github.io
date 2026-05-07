@@ -32,6 +32,17 @@ Doctorante en économie au BETA, Université de Lorraine.
 
 
 ### Membres
+**- [Benjamin Castelanelli](https://www.cresppa.cnrs.fr/membre/castelanelli-benjamin/)**
+
+Doctorant en sociologie au CRESPPA, Université Paris 8.
+
+**- [Daniel Coronel Crespo](https://triangle.ens-lyon.fr/spip.php?article11889)**
+
+Doctorant en science politique à Triangle, Sciences Po Lyon.
+
+**- [Jérôme Deyris](https://www.jeromedeyris.fr/)**
+
+Post-doctorant au Centre d'études européennes, Sciences Po Paris.
 
 **- [Julian Laynat](https://www.beta-economics.fr/annuaire/590/laynat_julian/)**
 
@@ -51,3 +62,7 @@ Doctorant en économie à EconomiX, Université Paris Nanterre.
 **- [Yamina Tadjeddine](https://www.beta-economics.fr/annuaire/252/tadjeddine_yamina/)**
 
 Professeure des universités en économie au BETA, Université de Lorraine.
+
+**- [Colin Vuilletet](https://cv.hal.science/colin-vuilletet)**
+
+Docteur en sciences économiques (ACT, USPN), ATER à l'Université Paris 1 Panthéon-Sorbonne.
