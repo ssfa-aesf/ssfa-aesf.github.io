@@ -44,10 +44,17 @@ Doctorant en science politique à Triangle, Sciences Po Lyon.
 
 Post-doctorant au Centre d'études européennes, Sciences Po Paris.
 
+**- [Mihaela Hainagiu]**
+
+Doctorante en sociologie au CMH, Université PSL
+
+**- [Lisa Laurence]**
+
+Docteure en sociologie de l'IRISSO, Université PSL
+
 **- [Julian Laynat](https://www.beta-economics.fr/annuaire/590/laynat_julian/)**
 
 Doctorant en économie au BETA, Université de Lorraine.
-
 
 **- [Marc Lenglet](https://neoma-bs.fr/professeurs/lenglet)**
 
