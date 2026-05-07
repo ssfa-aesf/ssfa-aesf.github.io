@@ -44,11 +44,11 @@ Doctorant en science politique à Triangle, Sciences Po Lyon.
 
 Post-doctorant au Centre d'études européennes, Sciences Po Paris.
 
-**- [Mihaela Hainagiu]**
+**- Mihaela Hainagiu**
 
 Doctorante en sociologie au CMH, Université PSL.
 
-**- [Lisa Laurence]**
+**- Lisa Laurence**
 
 Docteure en sociologie de l'IRISSO, Université PSL.
 
