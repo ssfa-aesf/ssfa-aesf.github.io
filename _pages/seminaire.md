@@ -13,7 +13,7 @@ Si vous désirez proposer une séance de séminaire, il vous suffit de contacter
 ## Programme du séminaire mensuel de l'association
 
 ### Séance de mai 2026: Le genre de la finance
-_**Mercredi 13 mai 2026 de 17h à 19h à la MSH Paris-Nord (salle panoramique, 4e étage)**_
+_**Mercredi 13 mai 2026 de 17h à 19h à la MSH Paris-Nord (salle 410)**_
 
 - Maya Guerrand (IRISSO, Université Paris Dauphine-PSL) : "Mettre la « féminité » au travail : mixité et stratégies de moralisation des espaces financiers"
 
