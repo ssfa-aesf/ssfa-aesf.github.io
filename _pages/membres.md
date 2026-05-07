@@ -46,11 +46,11 @@ Post-doctorant au Centre d'études européennes, Sciences Po Paris.
 
 **- [Mihaela Hainagiu]**
 
-Doctorante en sociologie au CMH, Université PSL
+Doctorante en sociologie au CMH, Université PSL.
 
 **- [Lisa Laurence]**
 
-Docteure en sociologie de l'IRISSO, Université PSL
+Docteure en sociologie de l'IRISSO, Université PSL.
 
 **- [Julian Laynat](https://www.beta-economics.fr/annuaire/590/laynat_julian/)**
 
