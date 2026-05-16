@@ -23,6 +23,6 @@ Contact: [asso.ssfa@proton.me](mailto:asso.ssfa@proton.me)
 
 [Texte des membres fondateurs de l'association](/files/Parlons_finance_2000.pdf)
 
-[Les status de l'association des études sociales de la finance](/files/statuts_ssfa.pdf)
+[Les statuts de l'association des études sociales de la finance](/files/statuts_ssfa.pdf)
 
 [Compte rendu de l'assemblée générale de 2000 créant l'association](/files/AG_creation.pdf)
