@@ -12,14 +12,38 @@ Si vous désirez proposer une séance de séminaire, il vous suffit de contacter
 
 ## Programme du séminaire mensuel de l'association
 
+### Séance d'octobre 2026 : Financer les politiques économiques hors marché. Le crédit à moyen terme mobilisable dans l’après-guerre
+_**Mercredi 21 octobre 2026 de 17h30 à 19h30 à la MSH Paris-Nord (salle 413)**_
+
+- Alex Amiotte Suchet (IDHE.S, ENS Paris-Saclay)
+
+- Tristan Guesdon (ACT, Université Sorbonne Paris-Nord)
+
+### Séance de novembre 2026 : Appréhender l’expertise des banques centrales
+_**Mercredi 18 novembre 2026 de 17h à 19h à la MSH Paris-Nord (salle 413)**_
+
+- Jérôme Deyris (CES - Université Paris 1 Panthéon-Sorbonne)
+
+- Valentine Floriani (IDHE.S - ENS Paris-Saclay)
+
+
+
+### Séance de décembre 2026 : Socialisation des élites financières, d’hier et d’aujourd’hui
+_**Mercredi 16 décembre 2026 de 17h à 19h à la MSH Paris-Nord (salle 413)**_
+
+- Sanja Beronja (Centre Marc Bloch)
+
+- Hugo Fraslin (CENA - EHESS)
+
+
+## Séances de l'année 2025-2026
+
 ### Séance de mai 2026: Le genre de la finance
 _**Mercredi 13 mai 2026 de 17h à 19h à la MSH Paris-Nord (salle 410)**_
 
 - Maya Guerrand (IRISSO, Université Paris Dauphine-PSL) : "Mettre la « féminité » au travail : mixité et stratégies de moralisation des espaces financiers"
 
 - Pauline Gibard (CREATE, iaelyon School of Management): "Défis du financement de l’entrepreneuriat féminin : enseignements de thèse et d’un article sur les micro-agressions"
-
-## Séances passées
 
 ### Séance d'avril 2026: Les finances vertes européennes
 _**Mercredi 8 avril 2026 de 17h à 19h à la MSH Paris-Nord (salle panoramique, 4e étage)**_
