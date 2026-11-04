@@ -29,7 +29,7 @@ _**Mercredi 18 novembre 2026 de 17h à 19h à la MSH Paris-Nord (salle 413)**_
 
 
 ### Séance de décembre 2026 : Socialisation des élites financières, d’hier et d’aujourd’hui
-_**Mercredi 16 décembre 2026 de 17h à 19h à la MSH Paris-Nord (salle 413)**_
+_**Mercredi 9 décembre 2026 de 17h à 19h à la MSH Paris-Nord (salle 413)**_
 
 - Sanja Beronja (Centre Marc Bloch)
 
