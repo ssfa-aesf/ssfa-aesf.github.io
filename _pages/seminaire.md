@@ -12,28 +12,38 @@ Si vous désirez proposer une séance de séminaire, il vous suffit de contacter
 
 ## Programme du séminaire mensuel de l'association
 
-### Séance d'octobre 2026 : Financer les politiques économiques hors marché. Le crédit à moyen terme mobilisable dans l’après-guerre
-_**Mercredi 21 octobre 2026 de 17h30 à 19h30 à la MSH Paris-Nord (salle 413)**_
-
-- Alex Amiotte Suchet (IDHE.S, ENS Paris-Saclay)
-
-- Tristan Guesdon (ACT, Université Sorbonne Paris-Nord)
-
 ### Séance de novembre 2026 : Appréhender l’expertise des banques centrales
 _**Mercredi 18 novembre 2026 de 17h à 19h à la MSH Paris-Nord (salle 413)**_
 
-- Jérôme Deyris (CES - Université Paris 1 Panthéon-Sorbonne)
+- **Jérôme Deyris** (CES - Université Paris 1 Panthéon-Sorbonne) : présentation de l'article _Interests and prices - The politics of inflation diagnosis at the Fed_
+Auteurs : Benjamin Braun, Jérôme Deyris, Monica DiLeo, Matthias Thiemann
 
-- Valentine Floriani (IDHE.S - ENS Paris-Saclay)
+_Résumé de la communication :_ 
+Les banques centrales ont connu une double transformation depuis les années 1990 : celle d’une plus grande indépendance de jure vis-à-vis du pouvoir politique, et celle d’une « scientisation » renforçant la place de la science économique dans leurs décisions. Intérêts et conflits n’ont pas pour autant disparu des décisions de politique monétaire. Notre article illustre ce constat en étudiant la façon dont les banquiers centraux de la Federal Reserve interprètent les causes de l’inflation dans leurs délibérations privées et leurs discours publics depuis 1970. Nous montrons d’abord que leurs diagnostics sont hétérogènes selon les études, les carrières et les préférences des individus, mais aussi qu’ils sont stratégiquement amplifiés ou atténués dans les discours publics de l’institution. Le poids des salaires et des profits (et donc du conflit de répartition de la valeur ajoutée) est ainsi davantage discuté à huis clos. En public, à l’inverse, les banquiers centraux font volontiers porter la responsabilité de l’inflation aux déficits publics.
+Nous nous focalisant ensuite sur l’explication la plus fréquente de l’inflation tout au long de notre période : le facteur travail. Nous montrons que la Réserve fédérale cultive bien une « peur du plein emploi », justifiée par des théories telles que la courbe de Phillips ou le NAIRU, et que cette peur s’avère largement « sans fondement » (Galbraith et al., 2007). Les technocrates américains imputent en effet d’autant plus l’inflation au travail que le chômage est bas, mais ce diagnostic reste insensible à la croissance des salaires, qui est pourtant censée être le canal de transmission des tensions du marché du travail aux prix. Nous montrons ensuite que cette « peur du plein emploi » est masquée : très marquée dans les délibérations du FOMC, elle s’atténue nettement, voire disparaît, dans les discours publics. Enfin, cette peur est partisane : à fondamentaux égaux, les banquiers centraux américains blâment davantage le facteur travail sous les présidences démocrates que républicaines.
+
+- **Valentine Floriani** (IDHE.S - ENS Paris-Saclay) : _L'euro numérique de la BCE contesté ? Analyse de la circulation de l'expertise dans le champ bancaire_
+
+_Résumé de la communication :_ 
+Le 9 juillet 2026, le Parlement européen a voté l’approbation du projet mené par la BCE, de produire une nouvelle forme de monnaie : l’euro numérique. Bien que ce dispositif soit présenté comme la clé de voute de la stratégie de souveraineté monétaire européenne à l’ère du numérique, l’euro numérique fait également l’objet d’une intense controverse sur les risques de panique bancaires qu’il engendrerait. Ces enjeux, loin d’apparaître avec ces débats, témoignent surtout de l’effacement des premières productions d’expertise sur les monnaies numériques de banque centrale, dont l’euro numérique porte toujours certaines caractéristiques, que met en tension la réorientation de ses objectifs politiques. 
+Dans cette présentation, on essaie de comprendre à l’aide d’une analyse de réseaux qui connecte les travaux d’expertise sur l’euro numérique, comment les modes de circulation de l’expertise monétaire contribuent à sélectionner les savoirs et orientent décisions politiques qui en découlent.
 
 
 
 ### Séance de décembre 2026 : Socialisation des élites financières, d’hier et d’aujourd’hui
 _**Mercredi 9 décembre 2026 de 17h à 19h à la MSH Paris-Nord (salle 413)**_
 
-- Sanja Beronja (Centre Marc Bloch)
+_À venir_
 
-- Hugo Fraslin (CENA - EHESS)
+
+## Séances passées
+
+### Séance d'octobre 2026 : Financer les politiques économiques hors marché. Le crédit à moyen terme mobilisable dans l’après-guerre
+_**Mercredi 21 octobre 2026 de 17h30 à 19h30 à la MSH Paris-Nord (salle 413)**_
+
+- Alex Amiotte Suchet (IDHE.S, ENS Paris-Saclay)
+
+- Tristan Guesdon (ACT, Université Sorbonne Paris-Nord)
 
 
 ## Séances de l'année 2025-2026
